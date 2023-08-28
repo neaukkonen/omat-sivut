@@ -1,0 +1,10 @@
+body {
+    background-color: lightslategray;
+}
+h1 {
+    color: rgb(1, 1, 156);
+    font-family: 40px;
+}
+p{
+   color: rgb(1, 65, 70); 
+}
